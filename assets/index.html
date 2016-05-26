@@ -135,12 +135,12 @@
                 <tr>
                   <th>ID</th>
                   <th>Timestamp</th>
-                  <th>Data</th>
+                  <th>Temperature</th>
                 </tr>
               </thead>
               <tr ng-repeat="data in dataList">
                 <td class="col-sm-1">{{ data.id }}</td>
-                <td class="col-sm-1">{{ data.createdAt }}</td>
+                <td class="col-sm-1">{{ data.timestamp }}</td>
                 <td class="col-sm-1">{{ data.data }}</td>
               </tr>
             </table>
