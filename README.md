@@ -10,16 +10,16 @@ This file contains installation instructions for the NodeJS Server of this Proje
 
 ### Installation
 * Open a Commandline Window and type:
-  ```sh
+  ```
   > git clone https://github.com/mfraas64/datalogger.git
   ```
 * Within the Commandline change to the directory
-  ```sh
+  ```
   > cd datalogger\NodeServer
   ```
 
   Then execute the following commands:
-  ```sh
+  ```
   > npm install
   > npm install -g bower
   > npm install -g grunt-cli
@@ -32,11 +32,11 @@ This should completely install **Git**, **NodeJS** and the Node Packages **Bower
 
 ### Starting the Server
 * Within the Commandline change to the directory
-  ```sh
+  ```
   > cd datalogger\NodeServer
   ```
 * To Start the Server type
-  ```sh
+  ```
   > node app.js
   ```
 
