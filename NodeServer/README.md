@@ -39,6 +39,7 @@ This should completely install **Git**, **NodeJS** and the Node Packages **Bower
   ```sh
   > node app.js
   ```
+  
   You should see something like this:
   
-  [logo]: https://github.com/mfraas64/datalogger/raw/master/NodeServer/screenshot.png "Screenshot"
+  ![alt text](https://github.com/mfraas64/datalogger/raw/master/NodeServer/screenshot.png "Screenshot")
