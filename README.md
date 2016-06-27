@@ -51,4 +51,5 @@ This should completely install **Git**, **NodeJS** and the Node Packages **Bower
 
 ### Demo
 [![Demo Video](http://img.youtube.com/vi/6nHwBDlBYts/0.jpg)](http://www.youtube.com/watch?v=6nHwBDlBYts)
+  (Klick on the Image to open the Youtube-Video)
 
