@@ -42,8 +42,13 @@ This should completely install **Git**, **NodeJS** and the Node Packages **Bower
 
   You should see something like this:
 
-  ![alt text](https://github.com/mfraas64/datalogger/raw/master/NodeServer/screenshot.png "Screenshot")
+  ![Screenshot](https://github.com/mfraas64/datalogger/raw/master/NodeServer/screenshot.png "Screenshot")
 
 
   Now you just need to open a Browser and go to
   `http://localhost:1337`
+
+
+### Demo
+[![Demo Video](http://img.youtube.com/vi/6nHwBDlBYts/0.jpg)](http://www.youtube.com/watch?v=6nHwBDlBYts)
+
