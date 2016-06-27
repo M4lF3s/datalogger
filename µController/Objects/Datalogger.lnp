@@ -1,0 +1,14 @@
+--cpu Cortex-M4.fp
+".\objects\datalogger.o"
+".\objects\mmc-ek-lm4f232.o"
+".\objects\ff.o"
+".\objects\cc932.o"
+".\objects\uartstdio.o"
+".\objects\cfal96x64x16.o"
+".\Libraries\driverlib.lib"
+".\Libraries\grlib.lib"
+".\objects\startup.o"
+--strict --scatter ".\Datalogger.sct"
+--entry Reset_Handler --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Datalogger.map" -o .\Objects\Datalogger.axf

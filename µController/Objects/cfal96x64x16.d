@@ -1,0 +1,11 @@
+.\objects\cfal96x64x16.o: Libraries\drivers\cfal96x64x16.c
+.\objects\cfal96x64x16.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\cfal96x64x16.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cfal96x64x16.o: .\Libraries\inc/hw_memmap.h
+.\objects\cfal96x64x16.o: .\Libraries\driverlib/gpio.h
+.\objects\cfal96x64x16.o: .\Libraries\driverlib/ssi.h
+.\objects\cfal96x64x16.o: .\Libraries\driverlib/sysctl.h
+.\objects\cfal96x64x16.o: .\Libraries\driverlib/rom.h
+.\objects\cfal96x64x16.o: .\Libraries\driverlib/pin_map.h
+.\objects\cfal96x64x16.o: .\Libraries\grlib/grlib.h
+.\objects\cfal96x64x16.o: .\Libraries\drivers/cfal96x64x16.h
