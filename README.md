@@ -35,7 +35,7 @@ This should completely install **Git**, **NodeJS** and the Node Packages **Bower
   ```
   > cd datalogger\NodeServer
   ```
-* To Start the Server type
+* Start the Server type
   ```
   > node app.js
   ```
