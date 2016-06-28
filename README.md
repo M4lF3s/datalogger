@@ -4,7 +4,9 @@ This file contains installation instructions for the NodeJS Server of this Proje
 
 ### Prequisities
 
-* Install NodeJS from [https://nodejs.org] (Version: 4.4.6 LTS)
+* Install NodeJS from [https://nodejs.org] 
+
+  (Used Version: 4.4.6 LTS)
 * Install the Git Commandline Interface from [https://git-scm.com]
 
   (Make sure you choose "Use Git from the Windows Command Prompt" during the Git    installation so the PATH Variable will get set)
